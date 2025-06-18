@@ -1,0 +1,6 @@
+{
+  "name": "Historical-Scene Prompt Builder",
+  "description": "A web application for crafting richly-described textual prompts for generative-AI image tools, with a focus on historical scenes and robust RTL support.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
